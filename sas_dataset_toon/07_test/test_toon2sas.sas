@@ -5,8 +5,8 @@
  * Note: These tests require a SAS environment to run
  *******************************************************************************/
 
-%let inpath = D:\Users\10089669\Desktop\clibor;
-%let outpath = D:\Users\10089669\Desktop\clibor;
+%let inpath = ;
+%let outpath =;
 
 
 /*******************************************************************************
@@ -199,3 +199,4 @@ run;
 %put NOTE: ========================================;
 %put NOTE: TOON to SAS Conversion Tests Complete;
 %put NOTE: ========================================;
+

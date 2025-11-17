@@ -27,9 +27,14 @@ TOON_format_specification.txt    	TOON format specification
 );
 ~~~
 <img width="499" height="68" alt="image" src="https://github.com/user-attachments/assets/3a8f7359-f995-4708-b8f2-5adf3e7bf3b6" />  
-▽　　
-▽　　
-▽　　
+▽  
+
+▽  
+
+▽  
+<img width="369" height="352" alt="image" src="https://github.com/user-attachments/assets/35eafa38-2459-4973-a658-ccf44d237214" />
+
+
 
 
 

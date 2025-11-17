@@ -1,6 +1,8 @@
 # sas_dataset_toon
 This package contains SAS macros for converting between SAS datasets and  TOON (Token-Oriented Object Notation) format.
 
+##This repository is an adapted version of Saikrishnareddy Yengannagari’s original package (https://github.com/kusy2009/sas_dataset_toon) tailored for the SAS Package Framework, and the original license remains the property of Saikrishnareddy Yengannagari.
+
 ## CONTENTS
 
 06_macro/  

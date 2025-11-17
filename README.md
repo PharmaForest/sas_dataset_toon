@@ -58,7 +58,8 @@ TOON_format_specification.txt    	TOON format specification
 For issues or questions about TOON, refer to the TOON format specification documentation.  
 [TOON_format_Specification.txt](https://github.com/PharmaForest/sas_dataset_toon/blob/4e03654fbc406a2167c5cb03c3e31b1dfee8ccbb/TOON_format_Specification.txt)
 
-For SAS macros issues or questions, Please raise your issues directly here.  
+For SAS macros issues or questions, Please raise your issues directly original repository.  
+https://github.com/kusy2009/sas_dataset_toon
 
 # version history
 1.0.0(15Nov2025): Initial version

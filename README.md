@@ -1,9 +1,7 @@
 # sas_dataset_toon
 This package contains SAS macros for converting between SAS datasets and  TOON (Token-Oriented Object Notation) format.
 
-================================================================================
-CONTENTS
-================================================================================
+## CONTENTS
 
 macros/
   - sas2toon.sas        		Main macro to convert SAS dataset to TOON format
@@ -15,9 +13,7 @@ tests/
 
 TOON_format_specification.txt    	TOON format specification
 
-================================================================================
-QUICK START
-================================================================================
+## QUICK START
 /* 1. Convert SAS dataset to TOON */
 %sas2toon(
     libname=WORK,
@@ -32,19 +28,12 @@ QUICK START
     dataset=NEWDATA
 );
 
-================================================================================
-REQUIREMENTS
-================================================================================
+## REQUIREMENTS
 
 - SAS 9.4 or later
 - BASE SAS license
 - File system access for reading/writing TOON files
 
-================================================================================
-SUPPORT
-================================================================================
-
+## SUPPORT
 For issues or questions about TOON, refer to the TOON format specification documentation.
 For SAS macros issues or questions, Please raise your issues directly here.
-
-================================================================================
